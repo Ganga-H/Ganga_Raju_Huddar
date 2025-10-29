@@ -4,7 +4,7 @@
 **Organization:** Tandemloop  
 **Language Used:** Java  
 **Difficulty Level:** Basic  
-**Submission Type:** 4 Programming Problems (as per official instructions)
+**Submission Type:** 4 Programming Problems
 
 ---
 
