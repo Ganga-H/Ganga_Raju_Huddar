@@ -72,7 +72,7 @@ javac Problem_4.java
 Execute any program with:
 
 ```bash
-java Problem-1
+java Problem_1
 ```
 
 (Replace `Problem_1` with the respective file name.)
