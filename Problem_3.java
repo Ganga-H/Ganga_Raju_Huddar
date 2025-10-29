@@ -1,8 +1,10 @@
 package com.screeningtest;
+
 //Problem-3.java
 // Author: Ganga Raju Huddar
 // Language: Java
 // Description: Generates a variable odd-number series based on input conditions.
+
 import java.util.Scanner;
 
 public class Problem_3 {
@@ -24,3 +26,4 @@ public class Problem_3 {
         sc.close();
     }
 }
+
