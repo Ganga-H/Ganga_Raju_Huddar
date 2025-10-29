@@ -32,19 +32,6 @@ Check if Java is already installed:
 java --version
 javac --version
 
-
-
-Here’s an extended and polished continuation of your README section — completing the **installation guide**, **working principle**, and **usage instructions** for your Tandemloop screening test repository:
-
----
-
-### 🧩 Step 1: Install Java
-
-Check if Java is already installed:
-
-```bash
-java --version
-javac --version
 ```
 
 If not installed, download and install the latest **JDK** from [Oracle Java Downloads](https://www.oracle.com/java/technologies/downloads/).
